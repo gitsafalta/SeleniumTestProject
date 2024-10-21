@@ -1,4 +1,4 @@
-# Automation Testing with Selenium 
+# Automation Testing with Selenium using .NET C#
 
 ## Installed Package
 > Selenium.WebDriver
